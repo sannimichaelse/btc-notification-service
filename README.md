@@ -1,6 +1,6 @@
 # bitcoin-price-notification-service
 
-A simple service that checks bitcoin price every 10minutes and send notifications to your phone using IFTTT as well as to telegram when the length of bitcoin_history is equal to 5
+A simple service that checks bitcoin price every 5minutes and send notifications to your phone using IFTTT as well as to telegram when the length of bitcoin_history is equal to 2
 
 ## Install requirements
 pip install -r requirements.txt
